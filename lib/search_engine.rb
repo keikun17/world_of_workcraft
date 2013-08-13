@@ -5,4 +5,8 @@ class SearchEngine
     return true
   end
 
+  def self.search(where, what)
+    return true
+  end
+
 end
