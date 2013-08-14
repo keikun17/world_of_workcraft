@@ -21,6 +21,8 @@ describe Peasant do
 
     it "creates a single page pdf" do
       pending 'write code here that checks if the attachment is in S3'
+      # Do stuff here that checks the Background worker's queue list and see if 
+      # a job for the new peasant is there
     end
   end
 
